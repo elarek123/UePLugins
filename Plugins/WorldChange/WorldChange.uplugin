@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WorldChange",
+	"Description": "Change wolrd after smth",
+	"Category": "Other",
+	"CreatedBy": "Elarek",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WorldChange",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
